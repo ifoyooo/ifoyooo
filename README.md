@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ifoyooo
+👋 Hi, I’m @ifoyooo
 
 please follow @WannaFy if you want to follow me.
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ifoyooo) -->
